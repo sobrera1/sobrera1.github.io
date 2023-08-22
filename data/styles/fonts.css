@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'heavitas';
+    src: url('../fonts/Heavitas.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kenyan_bold';
+    src: url('../fonts/kenyan_coffee_bd.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kenyan';
+    src: url('../fonts/kenyan_coffee_rg.otf');
+    font-weight: normal;
+    font-style: normal;
+}

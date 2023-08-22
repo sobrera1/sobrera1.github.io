@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(0 ,0, 0);
+    color: white;
+	font-family: heavitas;
+    margin: 0 auto;
+    padding: 15px;
+}
+header{
+	display:flex;
+	flex-direction:row;
+	justify-content: space-between;
+    align-items: center;
+}
+li{
+	display: inline-block;
+    margin-right: 30px;
+	font-size:20px;
+}
+#dark_mtds{
+	display: flex;
+	flex-direction: row
+}
+#metodos{
+	color: red;
+	margin-left: 10px
+}
+h2{
+	max-width: 700px
+}
+p{
+	font-family:kenyan;
+	max-width: 500px;
+}
+main{
+	display: flex;
+    flex-direction: row;
+	margin-top:59px;
+}
+a{
+	color:white
+}
+a:hover{
+	color: red;
+	transition: 0.3s all
+}
+#tio_patinhas{
+	width: 450px
+}
+#insta-icn{
+	width:17px;
+	border-radius:5px
+}
+#zap-icn{
+	width:17px
+}
